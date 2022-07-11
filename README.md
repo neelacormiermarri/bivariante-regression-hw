@@ -1,1 +1,1 @@
-# bivariante-regression-hw
+I have learned that the higher the median of students that graduate highschool, the higher median of those students are enrolled in college. There are some outliers and also, the lower the graduation rate median, the lower the median number of people attending college.
